@@ -7,8 +7,8 @@ This repository consists of 2 simulink files `Forward_Kinematics.slx` and `Inver
 The respective kinematic equations for the 2D arm forward kinematics and the inverse kinematics are based on the following equations. 
 
 $$
-\textnormal{Forward kinematics equations:}
-~~~~~~~
+\text{Forward kinematics equations:}
+
 \begin{aligned}
 x &= l_1 \cos\theta_1 + l_2 \cos(\theta_1 + \theta_2) \\
 y &= l_1 \sin\theta_1 + l_2 \sin(\theta_1 + \theta_2)
